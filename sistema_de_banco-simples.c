@@ -82,7 +82,7 @@ void main()
                                 printf("\nQuanto voce deseja transferir?\n> ");
                                 scanf("%f", &transferir);
                                 conta[0].saldo = conta[0].saldo - transferir;
-                                conta[n].saldo = conta[n].saldo + transferir;// AJEITAR A CONTA Q RECEBERA A TRANSFERENCIA
+                                conta[n].saldo = conta[n].saldo + transferir;
                             }
                             else
                             {
@@ -150,7 +150,7 @@ void main()
                                 printf("\nQuanto voce deseja transferir?\n> ");
                                 scanf("%f", &transferir);
                                 conta[1].saldo = conta[1].saldo - transferir;
-                                conta[n].saldo = conta[n].saldo + transferir;// AJEITAR A CONTA Q RECEBERA A TRANSFERENCIA
+                                conta[n].saldo = conta[n].saldo + transferir;
                             }
                             else
                             {
@@ -217,7 +217,7 @@ void main()
                                 printf("\nQuanto voce deseja transferir?\n> ");
                                 scanf("%f", &transferir);
                                 conta[2].saldo = conta[2].saldo - transferir;
-                                conta[n].saldo = conta[n].saldo + transferir;// AJEITAR A CONTA Q RECEBERA A TRANSFERENCIA
+                                conta[n].saldo = conta[n].saldo + transferir;
                             }
                             else
                             {
@@ -284,7 +284,7 @@ void main()
                                 printf("\nQuanto voce deseja transferir?\n> ");
                                 scanf("%f", &transferir);
                                 conta[3].saldo = conta[3].saldo - transferir;
-                                conta[n].saldo = conta[n].saldo + transferir; // AJEITAR A CONTA Q RECEBERA A TRANSFERENCIA
+                                conta[n].saldo = conta[n].saldo + transferir;
                             }
                             else
                             {
