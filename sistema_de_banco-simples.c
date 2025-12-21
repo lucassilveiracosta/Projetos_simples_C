@@ -1,4 +1,4 @@
-#include <stdio.h>fe
+#include <stdio.h>
 #include <time.h>
 
 typedef struct
