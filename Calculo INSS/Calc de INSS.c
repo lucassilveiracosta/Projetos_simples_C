@@ -110,11 +110,16 @@ int main(void)
                         INSS = salario_calc * 0.2;
                         system("cls");
                     }
-                    else
+                    else if(salario < 1518.00)
                     {
                         system("cls");
                         printf("Voce nao pode participar do Plano Normal.");
                         verificador = 1;
+                    }
+                    else if(salario > 8157.00)
+                    {
+                        INSS = 8157.00 * 0.2;
+                        system("cls");
                     }
 
                 break;
