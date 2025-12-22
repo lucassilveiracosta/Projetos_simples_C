@@ -1,7 +1,3 @@
-Aqui está o código formatado em Markdown para você copiar e colar diretamente no seu arquivo README.md:
-
-Markdown
-
 # 📊 Calculadora de INSS 2025
 
 Este é um programa desenvolvido em **C** para realizar o cálculo do desconto do INSS (Previdência Social) com base nas tabelas e regras vigentes para o ano de **2025**.
